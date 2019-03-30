@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <string-array name="member">
+        <item>Dipta Saha</item>
+        <item>Keya Saha</item>
+        <item>Amaresh Saha</item>
+        <item>Shusmita Saha</item>
+        <item>Aditi Saha</item>
+
+
+    </string-array>
+
+    <string name="dipta">
+        \nName : Dipta Saha
+        \nAge: 25
+        \nOcupation : Engineer
+
+
+
+
+    </string>
+    <string name="Keya">
+        \nName : Keya Saha
+        \nAge: 21
+        \nOcupation : Housewife
+
+
+
+
+    </string>
+    <string name="Amaresh">
+        \nName : Amaresh Saha
+        \nAge: 55
+        \nOcupation : Teacher
+
+
+
+
+    </string>
+    <string name="Shusmita">
+        \nName : Shusmita Saha
+        \nAge: 45
+        \nOcupation : Teacher
+
+
+
+
+    </string>
+    <string name="Aditi">
+        \nName : Aditi Saha
+        \nAge: 17
+        \nOcupation : Student
+
+
+
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
